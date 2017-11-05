@@ -15,4 +15,4 @@ The com manager reads all settings from the **.config.properties** file in the
 **.proviz** directory. All changes to the com manager behavior should be made
 through the properties file.
 
-Build status = [![Build Status](https://travis-ci.org/CyberPhysicalSecurityLab/Proviz-Sensor-Application.svg?branch=master)](https://travis-ci.org/CyberPhysicalSecurityLab/Proviz-Sensor-Application)
+Build status: [![Build Status](https://travis-ci.org/cslfiu/Proviz-Sensor-Application.svg?branch=master)](https://travis-ci.org/cslfiu/Proviz-Sensor-Application)
